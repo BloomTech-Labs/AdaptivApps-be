@@ -3,7 +3,7 @@
     "apollo-server": "^2.11.0",
     "apollo-server-express": "^2.13.1",
     "body-parser": "^1.19.0",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "faker": "^4.1.0",
     "graphql-iso-date": "^3.6.1",
     "graphql-tools": "^5.0.0",
